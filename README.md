@@ -1,3 +1,4 @@
+# NOTICE: This is an unofficial community project and is not affiliated with the developers of Melon Sandbox.
 **Welcome to the Unofficial Melon Sandbox Launcher!**
 ## Installation. (windows)
 To start the install, go to the releases tab (https://github.com/Tomfelkerytube/melonlauncher/releases)
